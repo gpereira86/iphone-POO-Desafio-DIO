@@ -1,4 +1,4 @@
-package iphone.usuario;
+package iphone;
 
 import iphone.equipamentos.Iphone;
 
